@@ -1,0 +1,29 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Backbone.js",
+		"ColorPicker",
+		"CSS Media Query Snippets",
+		"Emmet",
+		"Git",
+		"Handlebars",
+		"HTML Snippets",
+		"jQuery",
+		"jQuery Snippets pack",
+		"LESS",
+		"LESS-build",
+		"Package Control",
+		"Placeholders",
+		"Prefixr",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Super Calculator",
+		"Tag",
+		"Theme - Soda",
+		"WordHighlight",
+		"ZenCoding"
+	]
+}
